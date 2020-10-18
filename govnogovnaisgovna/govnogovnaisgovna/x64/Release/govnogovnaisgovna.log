@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(13,59): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(57,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(57,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(57,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(64,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(64,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(64,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(119,61): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(120,61): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 135 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  govnogovnaisgovna.vcxproj -> C:\Users\admin\source\repos\govnogovnaisgovna\x64\Release\govnogovnaisgovna.exe
