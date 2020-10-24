@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(30,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\admin\source\repos\govnogovnaisgovna\govnogovnaisgovna\main.cpp(30,49): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  govnogovnaisgovna.vcxproj -> C:\Users\admin\source\repos\govnogovnaisgovna\x64\Debug\govnogovnaisgovna.exe
